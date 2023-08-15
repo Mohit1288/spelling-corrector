@@ -1,2 +1,3 @@
-# spelling-corrector
-This is basic project correct spelling 
+# Project Name  spelling-corrector
+Library used in this project - Tkinter ,Textblob
+this is basic a project , If we give wrong splelling it give us correct splleing
